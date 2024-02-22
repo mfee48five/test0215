@@ -22,7 +22,9 @@
         <header>
             <h1>Hi</h1>
         </header>
-        <main></main>
+        <main>
+         <p>kjhuiuihuidgfshuidgfsdrtgs</p>
+        </main>
         <footer>
             <!-- place footer here -->
         </footer>
