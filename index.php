@@ -21,6 +21,7 @@
     <body>
         <header>
             <h1>Hi</h1>
+            <h2>yo</h2>
         </header>
         <main>
          <p>kjhuiuihuidgfshuidgfsdrtgs</p>
